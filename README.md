@@ -11,6 +11,7 @@ Given the influx of messages in the medical domain, this system listens for inco
 - Python 3.x
 - `openai`, `requests`, and `websockets` Python libraries. Install them using:
 
+
   ```bash
   pip install openai requests websockets
   ```
@@ -18,11 +19,11 @@ Given the influx of messages in the medical domain, this system listens for inco
 ## Configuration
 
 Set up environment variables:
-''
+  ```
 OPENAI_API_KEY: Your OpenAI API key.
 PUSHBULLET_ACCESS_TOKEN: Your Pushbullet access token.
 DEVICE_ID: The device identifier for Pushbullet.
-''
+  ```
 Clone the repository and navigate to the project directory.
 
 ## Usage
