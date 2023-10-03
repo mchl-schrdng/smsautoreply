@@ -11,9 +11,9 @@ Given the influx of messages in the medical domain, this system listens for inco
 - Python 3.x
 - `openai`, `requests`, and `websockets` Python libraries. Install them using:
 
-\```
+```
 pip install openai requests websockets
-\```
+```
 
 ## Configuration
 
@@ -28,9 +28,9 @@ pip install openai requests websockets
 
 Run the script:
 
-\```
+```
 python your_script_name.py
-\```
+```
 
 ## Disclaimer
 
