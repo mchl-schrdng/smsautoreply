@@ -8,12 +8,12 @@ Given the influx of messages in the medical domain, this system listens for inco
 
 ## Prerequisites
 
-''
 - Python 3.x
 - `openai`, `requests`, and `websockets` Python libraries. Install them using:
+
   ```bash
   pip install openai requests websockets
-''
+  ```
 
 ## Configuration
 
