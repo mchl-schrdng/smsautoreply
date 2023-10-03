@@ -29,7 +29,7 @@ pip install openai requests websockets
 Run the script:
 
 ```
-python your_script_name.py
+python main.py
 ```
 
 ## Disclaimer
